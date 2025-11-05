@@ -1,8 +1,7 @@
-# portifolio-restic36
-Portfólio técnico dos projetos desenvolvidos na Residência TIC 36 – CEPEDI | SOFTEX | MCTI | Governo da Bahia. Liderança em desenvolvimento, arquitetura e gestão de software.
 
 # 📘 Portfólio ResTIC36 – Marcos Morais
 
+Portfólio técnico dos projetos desenvolvidos na Residência TIC 36 – CEPEDI | SOFTEX | MCTI | Governo da Bahia. Liderança em desenvolvimento, arquitetura e gestão de software.
 Este repositório consolida os **projetos desenvolvidos, liderados e entregues** por Marcos Morais durante a **Residência Tecnológica em Software (ResTIC36)**, iniciativa promovida pelo **CEPEDI**, em parceria com a **SOFTEX**, o **Ministério da Ciência, Tecnologia e Inovação (MCTI)** e o **Governo do Estado da Bahia**.
 
 ## 🚀 Destaques
