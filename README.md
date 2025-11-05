@@ -55,7 +55,7 @@ Liderei **duas frentes estratégicas**:
 ## 🧩 Projetos de Destaque
 
 ### 🌾 [Campo Inteligente (iAGRO)](https://github.com/marcosmoraisjr/CampoInteligente)
-> **Top 5 no Bahia Innovate Summit 2025 (BIS 2025)**  
+> **Top 3 no Bahia Innovate Summit 2025 (BIS 2025)**  
 > *Agrotech com IA, automação e dados agrícolas em tempo real.*
 
 - Agente de IA integrado a APIs **OpenWeather**, **Preço da Hora**, e **WhatsApp**
